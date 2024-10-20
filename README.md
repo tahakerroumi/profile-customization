@@ -1,8 +1,4 @@
-<h1 align ="center">Hello internet👋, i'm Taha KERROUMI </h1>
-<p align = "center"> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-kerroumi-5a6a022ba)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tahakerroumi)
-</p>
+<h1 align ="center">Hello internet👋, i'm Taha KERROUMI <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-kerroumi-5a6a022ba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tahakerroumi)</h1>
 💻 Code enthusiast...<br>👨🏻‍💻 Currently studying at 1337 coding school...<br>🌱 learning...
 
 # 💻 Tech Stack:
