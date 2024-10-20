@@ -1,5 +1,5 @@
 ### Hello internet👋, i'm Taha KERROUMI
 
 
-👩🏻‍💻 Code enthusiast...
-👩🏻‍🎓 Cureently studying at 1337 coding school...
+👩🏻‍💻 Code enthusiast...<br/>
+👩🏻‍🎓 Cureently studying at 1337 coding school...<br/>
