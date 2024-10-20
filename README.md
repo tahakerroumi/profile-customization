@@ -1,6 +1,4 @@
-### Hello internet👋, i'm Taha KERROUMI
-
-# 💫 About Me:
+# Hello internet👋, i'm Taha KERROUMI
 👩🏻‍💻 Code enthusiast...<br>👩🏻‍🎓 Currently studying at 1337 coding school...<br>🌱 learning...
 
 ## 🌐 Socials:
